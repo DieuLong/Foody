@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="version">Version</string>
+    <string name="dang_tai">Đang tải</string>
+    <string name="ten_cong_ty">dieuhoangphilong@gmail.com</string>
+    <string name="hint_dang_nhap">Đăng nhập</string>
+    <string name="hint_mat_khau">Mật khẩu</string>
+    <string name="dang_nhap">Đăng nhập</string>
+    <string name="hint_email">Email</string>
+    <string name="facebook_app_id">271017363368731</string>
+    <string name="dang_nhap_google">Đăng nhập bằng Google</string>
+    <string name="dang_nhap_facebook">Đăng nhập bằng Facebook</string>
+    <string name="title_activity_trang_chu">TrangChuActivity</string>
+    <string name="quen_mat_khau">Quên mật khẩu</string>
+    <string name="dang_ky">Đăng ký</string>
+    <string name="nhap_lai_mat_khau">Nhập lại mật khẩu</string>
+    <string name="thong_bao_loi">Bạn chưa nhập</string>
+    <string name="dang_nhap_thanh_cong">Đăng nhập thành công</string>
+    <string name="dang_nhap_that_bai">Đăng nhập thất bại</string>
+    <string name="xu_ly_dang_ky_dialog">Đang xử lý</string>
+    <string name="dang_xu_ly_title">Đăng ký tài khoản mới</string>
+    <string name="nhap_email">Vui lòng nhập email</string>
+    <string name="nhap_mat_khau">Vui lòng nhập mật khẩu</string>
+    <string name="vui_long_nhap_lai_mat_khau">Vui lòng nhập trùng mật khẩu</string>
+    <string name="dang_ky_thanh_cong">Đăng ký thành công</string>
+    <string name="dang_ky_that_bai">Đăng ký thất bại</string>
+    <string name="tai_khoan_khong_hop_le">Tài khoản vả mật khẩu không hợp lệ!</string>
+    <string name="gui_quen_mat_khau">Gửi</string>
+    <string name="email_can_khoi_phuc">Email cần khôi phục mật khẩu</string>
+    <string name="thanh_vien">Bạn chưa là thành viên? <u>Đăng ký</u></string>
+    <string name="email_khong_hop_le">Email không hợp lệ!</string>
+    <string name="khoi_phuc_email_thanh_cong">Gửi thành công</string>
+    <string name="o_dau">Ở đâu</string>
+    <string name="an_gi">Ăn gì</string>
+</resources>
